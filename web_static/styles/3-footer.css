@@ -1,13 +1,9 @@
-p {
-    text-align: center;
-    padding: 8px;
-}
-
 footer {
-    background: #FFFFFF;
-    height: 70px;
     width: 100%;
-    left: 0;
+    height: 60px;
     bottom: 0;
-    border-top: 1px solid #CCCCCC
+    position: relative;
+    flex: none;
+    border-top: 1px solid #CCCCCC;
+    background-color: white;
 }
