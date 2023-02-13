@@ -1,11 +1,17 @@
-![Holberton school logo](https://storage.googleapis.com/www-paredro-com/uploads/2019/03/El-logo-de-Airbnb-es-el-si%CC%81mbolo-de-la-gente-lugares-amor-y-un-22A22.jpg)
-# 0x01. AirBnB clone - Web static
-This directory is about web with style in css
-### about links for view web-sites:
+### Airbnb Clone
 
-https://danielj32.github.io/AirBnB_clone/web_static/0-index.html
-https://danielj32.github.io/AirBnB_clone/web_static/1-index.html
-https://danielj32.github.io/AirBnB_clone/web_static/2-index.html
-https://danielj32.github.io/AirBnB_clone/web_static/3-index.html
-https://danielj32.github.io/AirBnB_clone/web_static/4-index.html
+#### Description
+> This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
+> folder holds icons for the site (e.g. logo, bathroom icons, bedroom icons,
+> guest icons). The Styles folder holds CSS styling files. The largest numbered
+> style file of each category (e.g. common, footer, header, places) is most
+> relevant to the finished product. The highlest numbered index.html file is
+> likewise the most relevant to the finished product.
 
+![M](https://i.imgur.com/ujItUkN.png)
+
+### Environment
+* Languages: HTML, CSS
+* OS: Ubuntu 14.04 LTS
+* Style guidelines: ```./wc3validator.py [filename]```
+* Preview: paste index.html link and run on: http://htmlpreview.github.io/?
