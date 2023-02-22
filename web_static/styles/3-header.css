@@ -1,9 +1,22 @@
-header {
-    background-color: white;
+.header {
+    color: white;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
-    background-image: url(../images/logo.png);
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .logo-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 50px;
+    background-image: url('../images/logo.png');
     background-repeat: no-repeat;
-    background-position: 20px 50%;
-}
+    background-size: contain;
+    margin-left: 20px;
+  }
+  
